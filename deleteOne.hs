@@ -1,3 +1,4 @@
+-- x とリストxsを比較し、もっとも先頭に現れる1つの要素だけを取り除いたリストを返す関数
 deleteOne :: Integer -> [Integer] -> [Integer]
 
 deleteOne _ [] = []
