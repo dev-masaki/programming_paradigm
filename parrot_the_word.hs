@@ -1,0 +1,1 @@
+main = getLine >>= \str -> putStrLn str
