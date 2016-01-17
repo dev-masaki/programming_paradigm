@@ -1,2 +1,1 @@
--- Tree型に対して、ノードの深さを測る関数
-depth :: Tree a -> Integer
+data Tree tree4 = Branch(Branch Empty 1 Empty) 2 (Branch Empty 3 (Branch Empty 4 Empty))
